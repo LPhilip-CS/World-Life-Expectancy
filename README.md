@@ -24,11 +24,10 @@ Exploratory Data Analysis (EDA):
 - Table visualizations and general statistical analyses are provided.
 
 ## Answering Questions:
-- What is the average life expectancy in the world?
 - Which countries have done well in increasing their life expectancy?
 - Is there a drastic change in life expectancy (2007-2022) in the world?
 - Is there a correlation between life expectancy and a high or low GDP (Status, BMI) in each country?
-What is the adult mortality rate in the U.S. over the years?
+- What is the adult mortality rate in the U.S. over the years?
 
 ## Getting Started:
 - Clone the repository to your local machine.

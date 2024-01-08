@@ -12,7 +12,7 @@ Below is a brief overview to help you navigate through the project:
 ## Dataset:
 - The dataset includes life expectancy data for various countries.
 - Key variables include Status, GDP, BMI, mortality rates, and more.
-- Access the dataset through the folder 'WorldLifeExpectancy.xlsx' file or the 'DatabaseScript.sql' file.
+- Access the dataset through the folder 'WorldLifeExpectancy.xlsx' or the 'DatabaseScript.sql' file.
 
 ## Project Structure:
 Data Cleaning:
@@ -24,18 +24,24 @@ Exploratory Data Analysis (EDA):
 - Discover trends and relationships between attributes. 
 - Table visualizations and general statistical analyses are provided in Excel.
 
+Visualization:
+- Utilize Excel charts, such as line charts, bar graphs, and scatter plots, to represent variations in life expectancy over time or across different variables.
+- include interactive dashboards using Excel features like slicers, pivot tables, and charts.
+- These dashboards enhance the user experience by allowing dynamic exploration of the data.
+
+
 ## Answering Questions:
 - Which top 5 countries have the highest average life expectancy?
-- Is there a drastic change in life expectancy (2007-2022) in the world?
-- Is there a correlation between life expectancy and the status (developed vs. developing) of a country?
+- Is there a drastic change in life expectancy (2007-2022) worldwide?
+- Is there a correlation between life expectancy and a country's status (developed vs. developing)?
 - What are the overall mortality rates among the age ranges in the United States?
 
-## Getting Started with SQL:
+## Working in SQL:
 - Clone the repository to your local machine.
 - Import the dataset from the WorldLifeExpectancy.csv or run 'DatabaseScript.sql' to manually populate the database.
 - Run the files in sequential order: DatabaseScript, DataCleaning, and ExploratoryAnalysis.
 
-## Visualizations in Excel:
+## Working in Excel:
 - Explore the 'WorldLifeExpectancy.xlsx' file for interactive charts and graphs.
 - Leverage Excel functions and tools for further analysis.
 - Communicate findings effectively through visual representation and come up with insights and conclusions.

@@ -21,8 +21,11 @@ Data Cleaning:
 - Ensure data integrity and format consistency.
 
 Exploratory Data Analysis (EDA):
-- Discover trends and relationships between attributes. 
-- Table visualizations and general statistical analyses are provided in Excel.
+- Focuses on extracting meaningful insights from the dataset using SQL queries. 
+- Discover trends and relationships between attributes.
+- Aggregate data over time to observe temporal trends in life expectancy.
+- Explore correlations between life expectancy and other variables using the correlation coefficient (if applicable).
+
 
 Visualization:
 - Utilize Excel charts, such as line charts, bar graphs, and scatter plots, to represent variations in life expectancy over time or across different variables.

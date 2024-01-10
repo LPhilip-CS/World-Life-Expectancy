@@ -1,5 +1,5 @@
 
-# World Life Expectancy
+# World Life Expectancy 🌎
 Welcome to the World Life Expectancy Project! This initiative aims to analyze global life expectancy data to uncover insights into health trends and disparities across countries. 
 
 Below is a brief overview to help you navigate through the project:
@@ -41,7 +41,7 @@ Visualization:
 
 ## Working in SQL:
 - Clone the repository to your local machine.
-- Import the dataset from the WorldLifeExpectancy.csv or run 'DatabaseScript.sql' to manually populate the database.
+- Import the dataset from the 'WorldLifeExpectancy.csv' or run 'DatabaseScript.sql' to manually populate the database.
 - Run the files in sequential order: DatabaseScript, DataCleaning, and ExploratoryAnalysis.
 
 ## Working in Excel:

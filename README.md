@@ -12,7 +12,7 @@ Below is a brief overview to help you navigate through the project:
 ## Dataset:
 - The dataset includes life expectancy data for various countries.
 - Key variables include Status, GDP, BMI, mortality rates, and more.
-- Access the dataset through the folder 'WorldLifeExpectancy.xlsx' or the 'DatabaseScript.sql' file.
+- Access the dataset through the 'WorldLifeExpectancy.xlsx' or the 'DatabaseScript.sql' file.
 
 ## Project Structure:
 Data Cleaning:

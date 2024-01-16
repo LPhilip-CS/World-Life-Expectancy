@@ -1,6 +1,7 @@
 
 # World Life Expectancy 🌎
-Welcome to the World Life Expectancy Project! This initiative aims to analyze global life expectancy data to uncover insights into health trends and disparities across countries. 
+Welcome to the World Life Expectancy Project! A comprehensive analysis of global demographic data to understand and interpret trends in life expectancy across different regions and populations. 
+This project aims to provide insights into the factors influencing life expectancy, identify patterns, temporal trends, correlation analysis, and present findings through dynamic visualizations to enhance understanding. 
 
 Below is a brief overview to help you navigate through the project:
 
@@ -29,7 +30,8 @@ Exploratory Data Analysis (EDA):
 
 Visualization:
 - Utilize Excel charts, such as line charts, bar graphs, and scatter plots, to represent variations in life expectancy over time or across different variables.
-- include interactive dashboards using Excel features like slicers, pivot tables, and charts.
+- Further, explore and analyze trends in tableau with a fully dynamic map system.
+- Include interactive dashboards using features like slicers, pivot tables, maps and more.
 - These dashboards enhance the user experience by allowing dynamic data exploration.
 
 
@@ -44,10 +46,14 @@ Visualization:
 - Import the dataset from the 'WorldLifeExpectancy.csv' or run 'DatabaseScript.sql' to manually populate the database.
 - Run the files in sequential order: DatabaseScript, DataCleaning, and ExploratoryAnalysis.
 
-## Working in Excel:
+## Working in Excel/Tableau:
 - Explore the 'WorldLifeExpectancy.xlsx' file for interactive charts and graphs.
-- Leverage Excel functions and tools for further analysis.
+- Open the 'WorldLifeExpectancy.twbx' file to view the tableau dashboard.
+- Leverage Excel/Tableau functions and tools for further analysis.
 - Communicate findings effectively through visual representation and come up with insights and conclusions.
+
+## Working in Tableau:
+
 
 ## Feedback and Support:
 - Share your feedback, suggestions, or report issues.

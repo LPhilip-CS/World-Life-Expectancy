@@ -30,7 +30,7 @@ Exploratory Data Analysis (EDA):
 Visualization:
 - Utilize Excel charts, such as line charts, bar graphs, and scatter plots, to represent variations in life expectancy over time or across different variables.
 - include interactive dashboards using Excel features like slicers, pivot tables, and charts.
-- These dashboards enhance the user experience by allowing dynamic exploration of the data.
+- These dashboards enhance the user experience by allowing dynamic data exploration.
 
 
 ## Answering Questions:

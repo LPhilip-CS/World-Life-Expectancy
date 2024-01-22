@@ -1,6 +1,6 @@
 
 # World Life Expectancy 🌎
-Welcome to the World Life Expectancy Project! A comprehensive analysis of global demographic data to understand and interpret trends in life expectancy across different regions and populations. 
+Welcome to the World Life Expectancy Project. A comprehensive analysis of global demographic data to understand and interpret trends in life expectancy across different regions and populations. 
 This project aims to provide insights into the factors influencing life expectancy, identify patterns, temporal trends, correlation analysis, and present findings through dynamic visualizations to enhance understanding. 
 
 Below is a brief overview to help you navigate through the project:

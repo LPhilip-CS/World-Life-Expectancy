@@ -1,5 +1,7 @@
-
 # World Life Expectancy 🌎
+
+![Screenshot 2024-01-16 171111](https://github.com/LPhilip-CS/World-Life-Expectancy/assets/98559773/264dd8ad-7ddd-4474-af8a-34dc4dc7b021)
+
 Welcome to the World Life Expectancy Project. A comprehensive analysis of global demographic data to understand and interpret trends in life expectancy across different regions and populations. 
 This project aims to provide insights into the factors influencing life expectancy, identify patterns, temporal trends, correlation analysis, and present findings through dynamic visualizations to enhance understanding. 
 

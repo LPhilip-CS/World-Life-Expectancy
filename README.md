@@ -56,7 +56,7 @@ Visualization:
 - Communicate findings effectively through visual representation and come up with insights and conclusions.
 
   
-[Link](https://public.tableau.com/views/WorldLifeExpectancy_17054230844850/Home?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableau Link](https://public.tableau.com/views/WorldLifeExpectancy_17054230844850/Home?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![Home](https://github.com/LPhilip-CS/World-Life-Expectancy/assets/98559773/8023ef48-9b03-4d6e-9331-0805a96a741e)
 ![World Map](https://github.com/LPhilip-CS/World-Life-Expectancy/assets/98559773/81ce6f70-0d1f-4756-9ca1-6f8d721fba29)
 

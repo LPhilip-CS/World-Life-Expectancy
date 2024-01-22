@@ -41,6 +41,9 @@ Visualization:
 - Is there a correlation between life expectancy and a country's status (developed vs. developing)?
 - What are the overall mortality rates among the age ranges in the United States?
 
+<img width="1367" alt="SCR-20240122-ngpi" src="https://github.com/LPhilip-CS/World-Life-Expectancy/assets/98559773/a6a3476f-0813-42f0-9dd1-94b191a2738c">
+
+
 ## Working in SQL:
 - Clone the repository to your local machine.
 - Import the dataset from the 'WorldLifeExpectancy.csv' or run 'DatabaseScript.sql' to manually populate the database.
@@ -56,6 +59,8 @@ Visualization:
 [Link](https://public.tableau.com/views/WorldLifeExpectancy_17054230844850/Home?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![Home](https://github.com/LPhilip-CS/World-Life-Expectancy/assets/98559773/8023ef48-9b03-4d6e-9331-0805a96a741e)
 ![World Map](https://github.com/LPhilip-CS/World-Life-Expectancy/assets/98559773/81ce6f70-0d1f-4756-9ca1-6f8d721fba29)
+
+<img width="1719" alt="SCR-20240122-nglo" src="https://github.com/LPhilip-CS/World-Life-Expectancy/assets/98559773/ae2b7259-23e8-4451-bd15-8683e71492ae">
 
 
 ## Feedback and Support:
